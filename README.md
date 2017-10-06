@@ -1,2 +1,2 @@
 # 10Print
-10Print inspired by Daniel Shiffman's coding challenge
+A **[10Print](https://limuelzoleta.github.io/10Print/)** example inspired by Daniel Shiffman's coding challenge & [10print.org](https://10print.org/)
